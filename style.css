@@ -43,11 +43,11 @@ Altere apenas estas variáveis
 para mudar todo o site.
 ===================================== */
 :root{
---cor-principal: #2E7D32;
---cor-secundaria: #81C784;
---cor-fundo: #F5F5F5;
---cor-texto: #333333;
---cor-branca: #FFFFFF;
+--cor-principal: #73ff0034;
+--cor-secundaria: rgb(0, 255, 13);
+--cor-fundo: #25a8cf;
+--cor-texto: #5523a7;
+--cor-branca: #fbff00;
 }
 
 /* =====================================
